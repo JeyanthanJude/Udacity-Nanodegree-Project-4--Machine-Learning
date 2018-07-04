@@ -10,7 +10,7 @@ In this project, machine learning algroithms have been used to perform supervise
 * Validating performance of classification model using various metrics.
 
 ## Project Details
-In 2002 Enron corporation suffered a finalncial collapse. The resulting Federal investigation, provided a significant amount of typically confidential information entered into the public record, including tens of thousands of emails and detailed financial data for top executives. This e-mail data was analyzed and a predictive model was created to find the people involved in the collapse. Preprocessing of the data was already carried out as part of the project. Feature Selection, cross validation and tuning of algorithm were done.
+In 2002 Enron corporation suffered a finalncial collapse. The resulting Federal investigation, provided a significant amount of typically confidential information entered into the public record, including tens of thousands of emails and detailed financial data for top executives. This e-mail data was analyzed and a predictive model was created to find the people involved in the collapse. Preprocessing of the data was already carried out as part of the project. Feature Selection, cross validation and tuning of algorithm were done. The performance of the model was examined by building a confusion matrix.
 
 ## Tools Used
 * Jupyter Notebook
